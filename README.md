@@ -23,7 +23,7 @@ Explore the interactive dashboard for customer behavior, retention, conversion f
 ---
 ## Project Overview
 
-This project analyzes customer behavior and sales performance within an electronics e-commerce platform.
+This project analyzes customer behavior and sales performance in an e-commerce platform to identify opportunities for improving conversion, retention, and business growth.
 
 The objective is to identify key revenue drivers, evaluate customer retention, analyze customer purchasing behavior, and uncover opportunities to improve conversion, retention, and long term business growth.
 
