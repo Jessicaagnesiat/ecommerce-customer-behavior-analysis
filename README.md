@@ -37,8 +37,6 @@ This project aims to answer the following business questions:
 3. Where do customers drop off in the purchase funnel?
 4. Is revenue concentrated within specific customer segments or product categories?
 
-:content Reference[oaicite:1]{index=1}
-
 ---
 
 ## Dataset
