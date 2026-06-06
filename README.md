@@ -5,15 +5,6 @@
 ![EDA](https://img.shields.io/badge/Analysis-EDA-green)
 ![Customer%20Analytics](https://img.shields.io/badge/Customer-Analytics-orange)
 
-## Project Overview
-
-This project analyzes customer behavior and sales performance within an electronics e-commerce platform.
-
-The objective is to identify key revenue drivers, evaluate customer retention, analyze customer purchasing behavior, and uncover opportunities to improve conversion, retention, and long term business growth.
-
-The analysis was conducted using Python for data cleaning, preprocessing, and exploratory analysis, while Power BI was used to develop interactive dashboards for business monitoring and decision-making.
-
----
 ## 🚀 Live Dashboard
 
 👉 https://powerbidashboard-v32rvaixtrqo7rekyt5wfc.streamlit.app/
@@ -30,6 +21,16 @@ Explore the interactive dashboard for customer behavior, retention, conversion f
 - 👥 25.65% of customers were identified as churn risk users
 
 ---
+## Project Overview
+
+This project analyzes customer behavior and sales performance within an electronics e-commerce platform.
+
+The objective is to identify key revenue drivers, evaluate customer retention, analyze customer purchasing behavior, and uncover opportunities to improve conversion, retention, and long term business growth.
+
+The analysis was conducted using Python for data cleaning, preprocessing, and exploratory analysis, while Power BI was used to develop interactive dashboards for business monitoring and decision-making.
+
+---
+
 ## Business Problem
 
 Between September 2020 and February 2021:
