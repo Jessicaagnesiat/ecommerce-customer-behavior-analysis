@@ -219,15 +219,15 @@ A significant portion of customers were identified as churn risk users, highligh
 
 ## Business Performance Dashboard
 
-[Insert Screenshot Here]
+![Business Performance](Dashboard/Business%20Performance.png)
 
 ## Product Performance Dashboard
 
-[Insert Screenshot Here]
+![Product Performance](Dashboard/Product%20Performance.png)
 
-## Customer Behavior Dashboard
+## Customer Behaviour Dashboard
 
-[Insert Screenshot Here]
+![Customer Behaviour](Dashboard/Customer%20Behaviour.png)
 
 ---
 
