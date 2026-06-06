@@ -36,7 +36,6 @@ This project aims to answer the following business questions:
 2. How strong is customer retention?
 3. Where do customers drop off in the purchase funnel?
 4. Is revenue concentrated within specific customer segments or product categories?
-
 ---
 
 ## Dataset
