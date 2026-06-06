@@ -1,4 +1,4 @@
-# 🛒 Electronics E-Commerce Sales & Customer Behavior Analysis
+# 🛒 E-commerce Customer Behavior Analysis
 
 ![Python](https://img.shields.io/badge/Python-Pandas-blue)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
