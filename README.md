@@ -9,7 +9,7 @@
 
 This project analyzes customer behavior and sales performance within an electronics e-commerce platform.
 
-The objective is to identify key revenue drivers, evaluate customer retention, analyze customer purchasing behavior, and uncover opportunities to improve conversion, retention, and long-term business growth.
+The objective is to identify key revenue drivers, evaluate customer retention, analyze customer purchasing behavior, and uncover opportunities to improve conversion, retention, and long term business growth.
 
 The analysis was conducted using Python for data cleaning, preprocessing, and exploratory analysis, while Power BI was used to develop interactive dashboards for business monitoring and decision-making.
 
@@ -24,7 +24,7 @@ Between September 2020 and February 2021:
 - Only **36% of customers** made repeat purchases
 - Most users dropped off before completing a purchase
 
-Although revenue growth appeared strong, underlying customer behavior indicated potential sustainability risks and weak long-term retention. 
+Although revenue growth appeared strong, underlying customer behavior indicated potential sustainability risks and weak long term retention. 
 
 ---
 
@@ -117,7 +117,7 @@ Several products from the Electronics Telephone and Stationery Cartridge categor
 ---
 
 ## 3. Funnel Drop-Off Analysis
-
+ 
 A deeper funnel analysis identified major friction points:
 
 ### View → Cart
@@ -136,7 +136,7 @@ These findings suggest that product clarity, pricing strategy, and checkout expe
 Product ID **1821813** consistently ranked highest across:
 
 - Product Views
-- Add-to-Cart Actions
+- Add to Cart Actions
 - Purchases
 
 The Computer Components (Video Cards), CPU, and Electronics Telephone categories generated the strongest engagement throughout the customer journey.
@@ -157,7 +157,7 @@ Understanding these categories can help prioritize inventory management, marketi
 
 Customer retention declined sharply after the first month.
 
-Although repeat customers generated higher revenue than one-time buyers, long-term retention remained weak.
+Although repeat customers generated higher revenue than one time buyers, long term retention remained weak.
 
 This indicates that the business relies heavily on short-term purchases rather than sustainable customer loyalty.
 
@@ -179,7 +179,7 @@ Using customer behavior and transaction patterns, customers were segmented into:
 | High Value Customers | 11.39% |
 | New Customers | Remaining Share |
 
-A significant portion of customers were identified as churn-risk users, highlighting opportunities for retention-focused campaigns.
+A significant portion of customers were identified as churn risk users, highlighting opportunities for retention-focused campaigns.
 
 ---
 
@@ -188,30 +188,30 @@ A significant portion of customers were identified as churn-risk users, highligh
 ### Conversion Optimization
 
 - Improve product descriptions and categorization
-- Add high-quality images and detailed specifications
+- Add high quality images and detailed specifications
 - Display customer reviews and ratings
 - Highlight product benefits more clearly
 
 ### Reduce Cart Abandonment
 
 - Offer installment payment options
-- Provide limited-time discounts
-- Introduce free-shipping incentives
+- Provide limited time discounts
+- Introduce free shipping incentives
 - Simplify checkout processes
 
 ### Customer Retention
 
 - Create loyalty reward programs
 - Launch personalized email campaigns
-- Implement win-back campaigns for churn-risk customers
-- Introduce VIP programs for high-value customers
+- Implement win back campaigns for churn risk customers
+- Introduce VIP programs for high value customers
 
 ### Revenue Growth
 
-- Prioritize high-performing product categories
+- Prioritize high performing product categories
 - Bundle complementary products
 - Upsell premium product versions
-- Improve inventory allocation for top-selling items
+- Improve inventory allocation for top selling items
 
 ---
 
@@ -258,7 +258,7 @@ electronics-ecommerce-analysis
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Conversion Funnel Analysis
-- Funnel Drop-Off Analysis
+- Funnel Drop Off Analysis
 - Cohort Retention Analysis
 - Pareto Analysis
 - Customer Segmentation
