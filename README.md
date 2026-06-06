@@ -283,4 +283,8 @@ electronics-ecommerce-analysis
 
 **Jessica Agnesia Tataung**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Tableau
+Aspiring Data Analyst with a background in Pharmacy and experience in Python, SQL, Power BI, and Tableau.
+
+📧 Email: jessicaagnesiat@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/jessicaagnesiat
+🔗 GitHub: https://github.com/Jessicaagnesiat
