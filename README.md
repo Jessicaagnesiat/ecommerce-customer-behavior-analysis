@@ -14,7 +14,7 @@ Explore the interactive dashboard for customer behavior, retention, conversion f
 ---
 ## Project Highlights
 
-- 📈 Revenue grew by 26.79% despite a 27.72% decline in customers
+- 📈 Revenue grew by 26.79% despite 27.72% decline in customers
 - 🛒 Only 4.7% of product views converted into purchases
 - 🔄 Repeat purchase rate remained low at 36%
 - 🎯 20% of categories generated 84.21% of total revenue
