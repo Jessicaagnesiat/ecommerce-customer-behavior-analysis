@@ -24,7 +24,7 @@ Between September 2020 and February 2021:
 - Only **36% of customers** made repeat purchases
 - Most users dropped off before completing a purchase
 
-Although revenue growth appeared strong, underlying customer behavior indicated potential sustainability risks and weak long-term retention. :contentReference[oaicite:0]{index=0}
+Although revenue growth appeared strong, underlying customer behavior indicated potential sustainability risks and weak long-term retention. 
 
 ---
 
@@ -64,8 +64,6 @@ Kaggle – E-Commerce Events History in Electronics Store
 - user_id
 - user_session
 
-:contentReference[oaicite:2]{index=2}
-
 ---
 
 ## Tools & Technologies
@@ -90,8 +88,6 @@ The following preprocessing steps were performed:
 - Created additional features for analysis
 - Saved cleaned data for dashboard development
 
-:contentReference[oaicite:3]{index=3}
-
 ---
 
 # Key Findings
@@ -101,8 +97,6 @@ The following preprocessing steps were performed:
 Revenue increased by **26.79%** despite a **27.72% decline in customers**.
 
 Further analysis revealed that revenue per customer increased by **75.43%**, indicating that growth was driven primarily by higher customer spending rather than customer acquisition.
-
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -120,8 +114,6 @@ Only **4.7% of product views converted into purchases**, highlighting significan
 
 Several products from the Electronics Telephone and Stationery Cartridge categories demonstrated the highest conversion rates.
 
-:contentReference[oaicite:5]{index=5}
-
 ---
 
 ## 3. Funnel Drop-Off Analysis
@@ -137,9 +129,6 @@ Products with unclear categorization experienced the highest drop-off rates.
 Higher-priced products (>$100) dominated cart abandonment behavior.
 
 These findings suggest that product clarity, pricing strategy, and checkout experience significantly influence conversion performance.
-
-:contentReference[oaicite:6]{index=6}
-
 ---
 
 ## 4. Product Performance Analysis
@@ -151,9 +140,6 @@ Product ID **1821813** consistently ranked highest across:
 - Purchases
 
 The Computer Components (Video Cards), CPU, and Electronics Telephone categories generated the strongest engagement throughout the customer journey.
-
-:contentReference[oaicite:7]{index=7}
-
 ---
 
 ## 5. Pareto Analysis
@@ -164,7 +150,6 @@ This strong Pareto distribution indicates that business performance depends heav
 
 Understanding these categories can help prioritize inventory management, marketing investments, and promotional campaigns.
 
-:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -179,8 +164,6 @@ This indicates that the business relies heavily on short-term purchases rather t
 Repeat Purchase Rate:
 
 **36%**
-
-:contentReference[oaicite:9]{index=9}
 
 ---
 
@@ -197,8 +180,6 @@ Using customer behavior and transaction patterns, customers were segmented into:
 | New Customers | Remaining Share |
 
 A significant portion of customers were identified as churn-risk users, highlighting opportunities for retention-focused campaigns.
-
-:contentReference[oaicite:10]{index=10}
 
 ---
 
@@ -231,8 +212,6 @@ A significant portion of customers were identified as churn-risk users, highligh
 - Bundle complementary products
 - Upsell premium product versions
 - Improve inventory allocation for top-selling items
-
-:contentReference[oaicite:11]{index=11}
 
 ---
 
