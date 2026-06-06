@@ -18,7 +18,7 @@ Explore the interactive dashboard for customer behavior, retention, conversion f
 - 🛒 Only 4.7% of product views converted into purchases
 - 🔄 Repeat purchase rate remained low at 36%
 - 🎯 20% of categories generated 84.21% of total revenue
-- 👥 25.65% of customers were identified as churn risk users
+- 👥 25.65% of customers were identified as churn risk customers
 
 ---
 ## Project Overview
