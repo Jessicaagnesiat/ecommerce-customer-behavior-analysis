@@ -248,10 +248,10 @@ A significant portion of customers were identified as churn risk users, highligh
 # Project Structure
 
 ```text
-electronics-ecommerce-analysis
+ecommerce-customer-behavior-analysis
 │
 ├── Dashboard
-│   ├── Business Performance.png
+│   ├── Business Performance Overview.png
 │   ├── Product Performance.png
 │   └── Customer Behaviour.png
 │
@@ -263,7 +263,6 @@ electronics-ecommerce-analysis
 │
 └── README.md
 ```
-
 ---
 
 # Skills Demonstrated
