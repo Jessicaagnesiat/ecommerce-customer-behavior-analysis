@@ -13,7 +13,13 @@ The objective is to identify key revenue drivers, evaluate customer retention, a
 
 The analysis was conducted using Python for data cleaning, preprocessing, and exploratory analysis, while Power BI was used to develop interactive dashboards for business monitoring and decision-making.
 
-[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-success)](https://powerbidashboard-v32rvaixtrqo7rekyt5wfc.streamlit.app/)
+---
+## 🚀 Live Dashboard
+
+👉 https://powerbidashboard-v32rvaixtrqo7rekyt5wfc.streamlit.app/
+
+Explore the interactive dashboard for customer behavior, retention, conversion funnel, and sales performance analysis.
+
 ---
 ## Project Highlights
 
@@ -237,21 +243,6 @@ A significant portion of customers were identified as churn risk users, highligh
 ## Customer Behaviour Dashboard
 
 ![Customer Behaviour](Dashboard/Customer%20Behaviour.png)
-
----
-# Live Dashboard
-
-🚀 Explore the interactive dashboard here:
-
-👉 https://powerbidashboard-v32rvaixtrqo7rekyt5wfc.streamlit.app/
-
-The dashboard provides insights into:
-- Business Performance Overview
-- Product Performance Analysis
-- Customer Behaviour Analysis
-- Conversion Funnel Performance
-- Customer Retention
-- Customer Segmentation
 
 ---
 # Project Structure
